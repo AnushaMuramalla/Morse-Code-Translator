@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputText" type="id" />
+    <item name="convertToMorse" type="id" />
+    <item name="convertToText" type="id" />
+    <item name="resultText" type="id" />
+</resources>
